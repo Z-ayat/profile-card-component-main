@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My Solution](https://github.com/Z-ayat/3-column-preview-card-component-main)
-- Live Site URL: [My live site](https://z-ayat.github.io/3-column-preview-card-component-main/)
+- Solution URL: [My Solution](https://github.com/Z-ayat/profile-card-component-main)
+- Live Site URL: [My live site](https://z-ayat.github.io/profile-card-component-main/)
 
 ## My process
 
